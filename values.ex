@@ -1,3 +1,4 @@
+
 #String addition
 IO.inspect("el" <> "ixir")
 
@@ -10,3 +11,7 @@ IO.inspect("7.0/3.0 =#{7.0/3.0}" )
 IO.inspect(true && false)
 IO.inspect(true || false)
 IO.inspect(!true)
+
+
+
+
