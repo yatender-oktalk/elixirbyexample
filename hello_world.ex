@@ -1,3 +1,2 @@
-defmodule Mymodule do
-  IO.inspect("Hello World!")
-end
+IO.inspect("Hello World!")
+
