@@ -1,5 +1,5 @@
 #elixir is not strictly typed languages
-#you can just give whatever you want in just snake case.
+#you can just give any name of variable you want in elixir community preferes in snake case.
 a = "initial"
 IO.inspect(a)
 
